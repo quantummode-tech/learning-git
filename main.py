@@ -1,1 +1,1 @@
-def mikefucn():
+def mikefucn(self):
